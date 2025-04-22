@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Pijush Kuri</h1>
 
 <p align="center">
-🔍 Data Analyst & Business Intelligence Enthusiast | 💡 Automating Insights | 📊 Power BI • Python • SQL  
+🔍 Data Analyst & Business Intelligence Enthusiast | 💡 Automating Insights | 📊 Power BI • Excel • SQL • Python
 </p>
 
 ---
