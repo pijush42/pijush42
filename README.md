@@ -38,10 +38,14 @@ Retail sales dashboard for a Stockholm-based supermarket, with automated preproc
 ## 🧰 Other Notables
 
 - 📜 [Google Business Intelligence Certificate](https://www.coursera.org/account/accomplishments/professional-cert/F8H3BGA175NS)
--  [Power BI Data Analyst Associate (In Progress)](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/)
--  [Azure Fundamentals – In Progress](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
--  [SQL: Business Intelligence with SQL](https://ude.my/UC-27534ff6-587d-44ed-a829-d1ec82048b88)
--  [Power BI Essential Training](https://www.linkedin.com/learning/certificates/0171df830382481ffc7edcf0c785343878f432f64518996f51cbf299413f3d9c?trk=share_certificate)
+- 📜 [Power BI Data Analyst Associate (In Progress)](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/)
+- 📜 [Azure Fundamentals – In Progress](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+- 📜 [SQL: Business Intelligence with SQL](https://ude.my/UC-27534ff6-587d-44ed-a829-d1ec82048b88)
+- 📜 [Power BI Essential Training](https://www.linkedin.com/learning/certificates/0171df830382481ffc7edcf0c785343878f432f64518996f51cbf299413f3d9c?trk=share_certificate)
+- 📜 [Data Analysis | SQL,Tableau,Power BI & Excel | Real Projects](https://ude.my/UC-d7f86345-6a18-42d1-9cfa-9cba7bac2cc4)
+- 📜 [Microsoft Excel - Data Analytics Power Query and PivotTables](https://www.udemy.com/certificate/UC-73e3736c-d4eb-441f-82de-e8a196a2f788/)
+- 📜 [Microsoft Power BI Desktop for Business Intelligence](https://ude.my/UC-842f8a0e-85e6-4869-b848-21c4d32db5cf)
+- 📜 [Agile Scrum for Beginners & Scrum Master Certification](https://www.udemy.com/certificate/UC-6a7ac461-3499-4f1a-b735-3dfd64e82060/)
 
 ---
 
