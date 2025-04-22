@@ -40,6 +40,8 @@ Retail sales dashboard for a Stockholm-based supermarket, with automated preproc
 - 📜 [Google Business Intelligence Certificate](https://www.coursera.org/account/accomplishments/professional-cert/F8H3BGA175NS)
 -  [Power BI Data Analyst Associate (In Progress)](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/)
 -  [Azure Fundamentals – In Progress](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+-  [SQL: Business Intelligence with SQL]((https://ude.my/UC-27534ff6-587d-44ed-a829-d1ec82048b88))
+-  [Power BI Essential Training]((https://www.linkedin.com/learning/certificates/0171df830382481ffc7edcf0c785343878f432f64518996f51cbf299413f3d9c?trk=share_certificate)) 
 
 ---
 
