@@ -21,6 +21,10 @@ Whether it's automating reports, building dynamic dashboards, or optimizing proc
 
 Here are a few projects that highlight my data visualization and automation skills:
 
+### 🛒 [Blinkit PowerBi Dashboard](https://github.com/pijush42/Blinkit-Power-Bi-Dashboard)
+**Power BI + SQL + DAX + UX in BI**  
+Analyze Business performance, Data storytelling for stakeholders, Operational optimization by outlet tier and location.
+
 ### 💳 [Credit Card Dashboard](https://github.com/pijush42/credit-card-dashboard)
 **Power BI + PostgreSQL + DAX**  
 Analyze customer spending behavior, revenue trends, and card usage through a dynamic dashboard.
@@ -37,6 +41,7 @@ Retail sales dashboard for a Stockholm-based supermarket, with automated preproc
 
 ## 🧰 Other Notables
 
+- 📜 [Microsoft Power BI Data Analyst](https://www.coursera.org/account/accomplishments/professional-cert/JFVBEAURF4DP)
 - 📜 [Google Business Intelligence Certificate](https://www.coursera.org/account/accomplishments/professional-cert/F8H3BGA175NS)
 - 📜 [Power BI Data Analyst Associate (In Progress)](https://learn.microsoft.com/en-us/certifications/power-bi-data-analyst-associate/)
 - 📜 [Azure Fundamentals – In Progress](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
