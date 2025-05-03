@@ -33,7 +33,7 @@ Analyze customer spending behavior, revenue trends, and card usage through a dyn
 **Power BI + SQL + Excel**  
 Explore employee attrition patterns by demographics, job roles, and salary bands using real-world HR data.
 
-### 🛒 [Euro Grossen AB Sales Dashboard](https://github.com/pijush42/euro-grossen-dashboard)
+### 🛒 [Euro Grossen AB Sales Dashboard](https://github.com/pijush42/PowerBi-Portfolio)
 **Power BI + Python + SQL**  
 Retail sales dashboard for a Stockholm-based supermarket, with automated preprocessing and product insights.
 
